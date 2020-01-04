@@ -23,7 +23,7 @@ email_address: nikurasu@vivaldi.net
 description: >- # this means to ignore newlines until "baseurl:"
   Halt ein kleiner Blog zusätzich zu meinen Social Media Kanälen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.nikurasu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nikurasu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NikurasuYT
 github_username:  Nikurasukun
 
