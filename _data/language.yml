@@ -1,0 +1,13 @@
+# Localization strings
+str_follow_on: "Folge mir auf"
+str_rss_follow: "Folge dem RSS-Feed"
+str_share_on: "Teilen auf"
+str_add_to: "Hinzufügen zu"
+str_email: "Email"
+str_tweet: "Tweet"
+str_pin_it: "Pin it"
+str_next_post: "Nächster Post"
+str_previous_post: "Vorheriger Post"
+str_next_page: "Nächte"
+str_previous_page: "Vorherige"
+str_javascript_required_disqus: "Bitte aktiviere JavaScript um Kommentare zu sehen!"

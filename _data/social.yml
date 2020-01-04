@@ -1,0 +1,35 @@
+rss: false         # Make sure you created a feed.xml with feed.xml layout
+email_address: nikurasu@vivaldi.net   # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "Nikurasukun"
+instagram:
+keybase:
+linkedin:         # Full URL
+pinterest:
+reddit: "NikurasuYT"
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: "NikurasuYT"         # "twitter username"
+vimeo:
+wordpress:
+youtube:
+
+# Share button options
+share:
+  facebook: true
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit: true
+  linkedin:
+  wordpress:
+  email: true
