@@ -11,10 +11,7 @@ Aber diese Frage ist gar nicht so leicht zu beantworten, vorallem weil es in die
 
 ## Meine Empfehlung für Einsteiger: ArcoLinux
 ![ArcoLinux](/assets/img/blog/Jan2020/arcolinux-one-liner.jpg)<br>
-Warscheinlich habt ihr noch nichts von dieser Distriution gehört, aber dennoch ist diese Distribution f&uuml;r Einsteiger perfekt geeignet. Denn das gute an ArcoLinux ist, dass sich die Distro an Leute wenden will, die lernen wollen Linux zu benutzen. In dieser Distribution gibt es nämlich einen eingebauten Lernpfad, der selbts einen alteingessessenen Windows-Benutzer zum Arch-Linux Benutzer macht.<br>
-ABER warte mal Niku, Arch-Linux war doch diese eine saukomplizierte Linux-Ditribution in der man nur &uuml;ber das [Terminal](https://linux-einsteiger-wiki.de/title/Terminal) arbeitet?!?<br><br>
-Ja, das stimmt, aber hauptsächlich bei der Intstallation. Aber danach bedient sich Arch-Linux ungef&auml;her gleichschwer wie Debian und das hat ja nunmal nicht den Ruf eine "schwierige" Linux Distribution zu sein.<br>
-Aber jetzt mal von Anfang an. Wie sieht der Lernpfad von ArcoLinux aus?<br>
+Warscheinlich habt ihr noch nichts von dieser Distriution gehört, aber dennoch ist diese Distribution genial, wenn du mehr dra&uuml;ber wissen willst wie Linux funktioniert. Denn das gute an ArcoLinux ist, dass sich die Distro an Leute wendet, die mehr &uuml;ber Linux wissen wollen. In dieser Distribution gibt es nämlich einen eingebauten Lernpfad, der dir beibringt, deine eigene Distro zu bauen.Doch wie sieht der Lernpfad von ArcoLinux aus?<br>
 Um hier schnell einen schnellen Überblick zu haben gibt es diese Übersicht, aber ich werde euch auch noch mal jeden Schritt etwas detaillierter und auf deutsch erkl&auml;ren.
 ![LearnigPath](/assets/img/blog/Jan2020/ArcoLinux-learning-path.png)<br><br>
 
@@ -35,7 +32,7 @@ Diese Phase ist dazu da um erstmal, <b>komplett grundlegenden Umgang mit Linux</
     <li><b>-Ss</b> zum suchen von Paketen</li>
     <li><b>-Syu</b> zum installieren der neusten Updates</li>
 </ul><br>
-Also w&auml;re der Befehl um Audacity zu installieren:
+Also w&auml;re z.B. der Befehl um Audacity zu installieren:
 ```bash
     sudo pacman -S audacity
 ```
