@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Das beste Linux für Einsteiger"
+title: "Linux für die, die mehr Wissen wollen"
 tags: [Linux]
-permalink: "/beginnerlinux"
 ---
 
-Wir stehen hier noch am Anfang von meinem Blog und was passt wohl gut zum Anfang?<br>
-Eine Frage die sich viele Anf&auml;nger im Bereich Linux stellen. "Mit welchem Linux fange ich am besten an?"<br>
-Aber diese Frage ist gar nicht so leicht zu beantworten, vorallem weil es in diesem Breich relativ viele Meinungen gibt. Und um meine Meinung schnell begr&uuml;nden zu k&ouml;nnen ohne immer auf's neue einen langen Text zu schreiben, gibt es diesen Artikel. Und ganz nebenbei mache ich noch Werbung für meinen Blog.<!--more-->
+Habt ihr schon etwas Erfahrung im Umgang mit Linux und wolltet mal etwas mehr dar&uuml; wissen wie ein Linux Betiebssystem eigentlich aufgebaut ist? Dann schaut euch mal Arco Linux an. Der Lernpfad dieser Distribution zeigt euch Schritt f&uuml;r Schritt, aus welchen Programmen ein Linux-Betriebssystem besteht und am Ende seid ihr sogar in der Lage eure eigene, auf Arch-Linux basierende Distribution zu bauen<!--more-->
 
-## Meine Empfehlung für Einsteiger: ArcoLinux
+## Was ist eigentlich ArcoLinux?
 ![ArcoLinux](/assets/img/blog/Jan2020/arcolinux-one-liner.jpg)<br>
 Warscheinlich habt ihr noch nichts von dieser Distriution gehört, aber dennoch ist diese Distribution genial, wenn du mehr dra&uuml;ber wissen willst wie Linux funktioniert. Denn das gute an ArcoLinux ist, dass sich die Distro an Leute wendet, die mehr &uuml;ber Linux wissen wollen. In dieser Distribution gibt es nämlich einen eingebauten Lernpfad, der dir beibringt, deine eigene Distro zu bauen.Doch wie sieht der Lernpfad von ArcoLinux aus?<br>
 Um hier schnell einen schnellen Überblick zu haben gibt es diese Übersicht, aber ich werde euch auch noch mal jeden Schritt etwas detaillierter und auf deutsch erkl&auml;ren.
