@@ -21,7 +21,7 @@ Und nach einem Neustart hat man schon ein voll funktionsfähiges, auf Arch-Linux
     <li><b>OpenBox</b> f&uuml;r alle die einen etwas komplexeren Desktop ausprobieren wollen.</li>
     <li><b>i3</b>, der komplexeste, aber auch am besten anpassungsfähigste Desktop unter diesen drei. (Und nein, das ist kein Intel-Prozessor)</li>
 </ul>
-Diese Phase ist dazu da um erstmal, <b>komplett grundlegenden Umgang mit Linux</b> zu lernen. Aber damit man auch gleich mit dem Benutzen des Systems loslegen kann, haben die Entwickler von ArcoLinux gleich sehr viele Programme in das ISO gepackt. Also tobt euch hier aus und lernt Linux kennen. Einer der gr&ouml;&szlig;ten Üterschiede zu der normalerweise für Anf&auml;nger empfohlenen Distros ist zu Beginn der andere [Paket-Manager](https://linux-einsteiger-wiki.de/title/Paketverwaltungen) Pacman. Damit ihr euch damit zurechtfindet hier mal die grundlegende Syntax von Pacman:<br>
+Diese Phase ist dazu da um erstmal, <b>komplett grundlegenden Umgang mit Linux</b> zu lernen. Aber damit man auch gleich mit dem Benutzen des Systems loslegen kann, haben die Entwickler von ArcoLinux gleich sehr viele Programme in das ISO gepackt. Also tobt euch hier aus und lernt Linux kennen. Einer der gr&ouml;&szlig;ten Unterschiede zu der normalerweise für Anf&auml;nger empfohlenen Distros ist zu Beginn der andere [Paket-Manager](https://linux-einsteiger-wiki.de/title/Paketverwaltungen) Pacman. Damit ihr euch damit zurechtfindet hier mal die grundlegende Syntax von Pacman:<br>
 <b>sudo pacman</b>
 <ul>
     <li><b>-S</b> zum Programme installieren</li>
