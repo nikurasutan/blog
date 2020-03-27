@@ -4,7 +4,7 @@ title: "Der Blog hat jetzt eine App"
 tags: [Developing, Ankündigungen]
 ---
 
-![CodingPicture](assets\img\blog\Mar2020\IMG_20200327_184425.jpg)
+![CodingPicture](/assets\img\blog\Mar2020\IMG_20200327_184425.jpg)
 
 Ja, ich hatte w&auml;herend der freien Zeit, die ich ja gerade während das Corona-Virus sich verbreitet habe, etwas Langeweile. Und was macht ein Nikurasu, wenn ihm langweilig ist? Er programmiert natürlich. Nein, jetzt aber mal Spass beiseite, ich hatte sowieso schon lange mal vor die zu lernen, wie man Apps für Android entwickelt und "dank" Corona hatte ich jetzt endlich mal Zeit dazu.<!--more-->
 Ich habe &uuml;brigens den kompletten Code von meiner App auf GitHub hochgeladen, dann könnt ihr euch mal anschauen wie ich die Probleme gel&ouml;st habe. Als Programmiersprache habe ich Kotlin gew&auml;lt, weil man mit dieser Sprache im vergleich zu Java schon einige Zeilen an Code sparen kann. Kotlin ist eine objektorientierte Programmiersprache, die von JetBrains, den Entwicklern verschiedener IDEs (IntelliJ, PyCharm, uvm.)  ins Leben gerufen wurde. Seit dem Mai 2019 ist diese Sprache übrigens die von Google bevorzugte Sprache für Android-Entwicklung.
