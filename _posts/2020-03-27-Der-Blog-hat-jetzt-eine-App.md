@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Briten und Hacking"
+title: "Der Blog hat jetzt eine App"
 tags: [Developing, Ankündigungen]
 ---
 
