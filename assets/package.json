@@ -30,6 +30,6 @@
     "gulp-webp": "^4.0.1"
   },
   "dependencies": {
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.3"
   }
 }
