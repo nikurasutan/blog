@@ -10,7 +10,7 @@ Plilipp-Kühner-Straße 2<br>
 </p><p> <strong>Vertreten durch: </strong><br>
 Jonas Psotka<br>
 </p><p><strong>Kontakt:</strong> <br>
-E-Mail: <a href='mailto:publicmail@nikurasu.de'>publicmail@nikurasu.de</a></br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+E-Mail: <a href='mailto:publicmail@nikurasu.de'>publicmail@nikurasu.de</a><br><p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Jonas Psotka <br> 
 Plilipp-Kühner-Straße 2<br> 
 99817 Eisenach <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
