@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nikurasu
-email_address: nikurasu@vivaldi.net
+email_address: publicmail@nikurasu.de
 description: >- # this means to ignore newlines until "baseurl:"
   Halt ein kleiner Blog zusätzich zu meinen Social Media Kanälen
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ twitter_username: NikurasuYT
 github_username:  Nikurasukun
 
 header_text: "Mein kleiner zusätzlicher Blog"
-footer_text: ""
+footer_text: "Datenschutz und Impressum"
 header_feature_image: assets/img/headerimg.jpg
 avatar: assets/img/Profile.png
 favicon: assets/img/Icon.ico
