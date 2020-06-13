@@ -28,7 +28,7 @@ twitter_username: NikurasuYT
 github_username:  Nikurasukun
 
 header_text: "Mein kleiner zusätzlicher Blog"
-footer_text: "<a href=\"/datenschutz.html\">Datenschutz</a> und Impressum"
+footer_text: "<a href=\"/datenschutz.html\">Datenschutz</a> und <a href=\"/impressum.html\">Impressum</a>"
 header_feature_image: assets/img/headerimg.jpg
 avatar: assets/img/Profile.png
 favicon: assets/img/Icon.ico
