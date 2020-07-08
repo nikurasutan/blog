@@ -40,7 +40,17 @@ google_analytics: "UA-172049421-1"
 cookie_consent: true
 cookie_consent_disclaimer: Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist.
 
-# Build settings
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*", ".travis.yml",
+          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
+
+
 #theme: type-on-strap
 remote_theme: sylhare/Type-on-Strap 
 plugins:
