@@ -36,6 +36,8 @@ paginate: 5
 paginate_path: "blog/page:num"
 excerpt: true
 excerpt_separator: <!--more-->
+cookie_consent: true
+cookie_consent_disclaimer: Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist.
 
 # Build settings
 #theme: type-on-strap
