@@ -37,7 +37,7 @@ paginate_path: "blog/page:num"
 excerpt: true
 google_analytics: "UA-172049421-1"
 cookie_consent: true
-cookie_consent_disclaimer: Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist.
+cookie_consent_disclaimer: "Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist."
 
 # BUILD SETTINGS
 markdown: kramdown
