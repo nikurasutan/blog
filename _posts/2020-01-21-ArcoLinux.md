@@ -2,6 +2,7 @@
 layout: post
 title: "Linux für die, die mehr Wissen wollen"
 tags: [Linux]
+excerpt_separator: <!--more-->
 ---
 
 Habt ihr schon etwas Erfahrung im Umgang mit Linux und wolltet mal etwas mehr dar&uuml; wissen wie ein Linux Betiebssystem eigentlich aufgebaut ist? Dann schaut euch mal Arco Linux an. Der Lernpfad dieser Distribution zeigt euch Schritt f&uuml;r Schritt, aus welchen Programmen ein Linux-Betriebssystem besteht und am Ende seid ihr sogar in der Lage eure eigene, auf Arch-Linux basierende Distribution zu bauen<!--more-->

@@ -3,6 +3,7 @@ layout: post
 title: "FerenOS, das neue ZorinOS?"
 tags: [Linux, Ersteindruck]
 bootstrap: true
+excerpt_separator: <!--more-->
 ---
 
 Heute hab ich mir gedacht, dass ich mal ein Review zu einem Linux machen könnte, was ich schon seit längerer Zeit verfolge, [FerenOS](https://ferenos.weebly.com/).

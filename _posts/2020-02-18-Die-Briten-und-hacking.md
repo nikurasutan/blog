@@ -2,6 +2,7 @@
 layout: post
 title: "Die Briten und Hacking"
 tags: [Informatik, Kommentar]
+excerpt_separator: <!--more-->
 ---
 Habt ihr auch schon mal ein bisschen mit Kali Linux herumgebastelt oder schon mal mit dem Tor-Browser die unendlichen Tiefen des Dark-Webs erkundet? Ja? Dann solltet ihr auf jeden Fall auf der Gesucht-Liste der britischen Strafverfolgungsbeh&ouml;rde stehen.<!--more-->
 Bevor du jetzt denkst, "Niku, was erz&uuml;hlst du da f&uuml;r einen M&uuml;ll!" lass mich erstmal erklären. Auf dem Discord-Server von [Linux Guides](https://www.linuxguides.de/) hat ein Mitglied einen recht am&uuml;santen [Artikel von Heise](https://www.heise.de/security/meldung/l-f-Achtung-Gefaehrliches-Kinderspielzeug-4660771.html) geteilt. Dort geht es um ein Plakat, das anscheinend in britischen Schulen die Runde macht. Und hier werde ich jetzt einfach mal meine, vielleicht auch ungefragte Meinung kundtun.<br>

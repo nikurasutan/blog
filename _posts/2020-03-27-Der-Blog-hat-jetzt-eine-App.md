@@ -2,6 +2,7 @@
 layout: post
 title: "Der Blog hat jetzt eine App"
 tags: [Developing, Ankündigungen]
+excerpt_separator: <!--more-->
 ---
 
 ![CodingPicture](/assets\img\blog\Mar2020\IMG_20200327_184425.jpg)
