@@ -76,6 +76,8 @@ object,
 video {
   max-width: 100%;
   padding: 0 9%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img[align=left] {
@@ -103,12 +105,6 @@ img[align=right] {
   }
   p, li, td {
     font-size: 0.8em;
-  }
-  li li {
-    font-size: 0.95em;
-  }
-  li li * {
-    font-size: 1em;
   }
 
   iframe,
@@ -157,8 +153,8 @@ blockquote {
   box-shadow: 0 2px 2px $border-color;
 }
 
-blockquote p:last-child,
-footer p:last-child {
+blockquote *:last-child,
+footer *:last-child {
   margin-bottom: 0;
 }
 
@@ -209,6 +205,7 @@ dl,
 // Lists within lists
 li {
   p {
+    font-size: inherit;
     display: inline;
   }
 
