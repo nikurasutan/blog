@@ -36,7 +36,7 @@ paginate: 5
 paginate_path: "blog/page:num"
 excerpt: true
 cookie_consent: true
-cookie_consent_disclaimer: "Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist.\n<a href=\"/Datanschutz\"> Datenschutzerklärung</a>"
+cookie_consent_disclaimer: "Ich nutze Cookies für diese Website. Hier bitte bestätigen, dass du damit einverstanden bist.\n<a href=\"/datenschutz.html\"> Datenschutzerklärung</a>"
 
 # BUILD SETTINGS
 markdown: kramdown
