@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nur noch Linux"
+title: "Nur noch Linux (zumindest auf dem Laptop)"
 tags: [Linux]
 excerpt_separator: <!--more-->
 ---
