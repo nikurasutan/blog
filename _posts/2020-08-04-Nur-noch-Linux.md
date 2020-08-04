@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nur noch Linux"
-tags: [Developing, Ank&uuml;ndigungen]
+tags: [Linux]
 excerpt_separator: <!--more-->
 ---
 
