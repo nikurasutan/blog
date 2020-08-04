@@ -2,6 +2,8 @@
 layout: post
 title: "Nur noch Linux (zumindest auf dem Laptop)"
 tags: [Linux]
+feature-img: "assets/img/blog/Aug2020/Laptop.jpg"
+thumbnail: "assets/img/blog/Aug2020/Laptop.jpg"
 excerpt_separator: <!--more-->
 ---
 
