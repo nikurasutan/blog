@@ -1,0 +1,12 @@
+# Animierte Wallpaper in KDE
+Hattest du schon immer mal Lust etwas Bewegung in deinen starren KDE Desktop zu bringen? Wenn dir einfache Wallpaper zu langweilig sind, hast du vielleicht schon einmal neidisch auf die Wallpaper Engine von Windows geschielt? Wie das und noch mehr unter Linux möglich ist erfährst du in diesem Artikel.
+
+## Bring Bewegung in den KDE-Deskto
+Um die starren Hintergrundbilder abzulösen, bietet einem KDE sogar drei verschiedene Möglichkeiten, von denen zwei sogar komplett gratis und OpenSource sind:
+- Ein Nachbau der dynamischen Wallpaper aus macOS, die sich also je nach Tageszeit ändern.
+- Ein Plugin dass dich animierte Shader als Wallpaper benutzen lässt.
+- Und sogar ein nahezu kompletter Nachbau der Wallpaper Engine von Steam, die fast alle dort erhältlichen Wallpaper benutzen kann.
+
+## Dynamische Wallpaper
+Diese Art der Wallpaper richten sich wie gesagt nach der Tageszeit, das bedeutet, dass der Hintergrund morgends einen Sonnenaufgang und abends den Sonnenuntergang zeigt. Die benötigten Wallpaper kann man entweder dirket herunterladen oder die Wallpaper von macOS mittels eines Python Skriptes konvertieren. Eigene Motive kann man sogar auch mit eines Tools erstellen, dass praktischerweise gleich mit dem KDE-Plugin mitgeliefert wird. So kann man theoretisch auch mit voneinander komplett unabhängigen Bildern eine Diashow kreierern, was mit KDE aber auch schon out of the Box möglich ist.
+Aber das wichtigste zuerst, wie installiert man das Plugin? Für die Distributionen Arch/Manjaro, Fedora, OpenSUSE und Ubuntu existieren Pakete daher gestaltet sich die Installation hier am sehr einfach. Ubuntu nutzer haben es hier am einfachsten, da hier nichtmal ein Repository von Drittanbietern genutzt werden muss, hier reicht der Befehl `# apt install plasma-wallpaper-dynamic` aus. Bei Fedora müsst ihr den freien Teil des RPM-Fusion Repositories aktiviert haben, falls ihr diesen noch nicht habt geht das mit `# sudo sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm`. Danach könnt ihr das Packet wie gewohnt mit `# dnf install plasma-wallpapers-dynamic` installieren. Arch-Nutzer müssen dagegen auf das AUR zurückgreifen, und das kann Beispielsweise mit einem AUR-Helper wie Paru geschehen `$ paru plasma5-wallpapers-dynamic`. Im Falle von OpenSUSE findet ihr ein Community-Paket auf (software.opensuse.org)[https://software.opensuse.org/package/plasma-wallpapers-dynamic?search_term=plasma-wallpapers-dynamic]
